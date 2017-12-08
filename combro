@@ -1,0 +1,164 @@
+/* Tambahan */
+.bg {
+      background:#F5F5FF;
+      padding:5px;
+      }
+
+.bg1 {
+      background:#333333;
+      padding:10px;
+color:white;
+font-weight:bold;
+      }
+.bg1 a:link {
+color: aqua;
+text-align: center;
+}
+
+.isi .bg1 a:link {
+color: aqua;
+text-align: center;
+}
+
+.list {
+background-color: orange;
+font-weight: bold;
+font-size: 14px;
+padding: 2px;
+border: 1px solid #a9a9a9;
+text-align: center;
+}
+
+.list {
+background-color: orange;
+font-weight: bold;
+font-size: 14px;
+padding: 2px;
+border: 1px solid #a9a9a9;
+text-align: center;
+}
+
+.list {
+background-color: orange;
+font-weight: bold;
+font-size: 14px;
+padding: 2px;
+border: 1px solid #a9a9a9;
+text-align: center;
+}
+
+.list {
+background-color: orange;
+font-weight: bold;
+font-size: 14px;
+padding: 2px;
+border: 1px solid #a9a9a9;
+text-align: center;
+}
+
+.prt1 {
+background-color : #101010;
+margin-top : 1px;
+margin-bottom : 1px;
+padding : 2px;
+border : 1px solid #323232;
+}
+
+.prt2 {
+background-color : #212121;
+margin-top : 1px;
+margin-bottom : 1px;
+padding : 2px;
+border : 1px solid #323232;
+}
+
+.bg2 {
+      background: silver;
+      padding:10px;
+color:white;
+font-weight:bold;
+      }
+.bg2 a:link {
+color: aqua;
+text-align: center;
+}
+
+.isi .bg2 a:link {
+color: aqua;
+text-align: center;
+}
+.isi {
+margin-top : 1px;
+margin-bottom : 1px;
+padding : 4px;
+border -bottom: 1px solid lime;
+
+}
+
+.judul {
+background-color : bistre;
+padding : 4px;
+border-top: 3px solid orange;
+border-bottom: 3px solid orange;
+text-align : center;
+
+color: orange;
+font-weight: bold;
+}
+
+.isi a:link, a:visited {
+color: deeppink;
+padding: 1px 2px 1px 2px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+border-radius: 2px;
+}
+
+.isi a:hover, a:active {
+background-color: gray;
+}
+
+.isi table {
+text-align: center;
+border: 2px solid pink;
+}
+
+.isi table, tr, td {
+text-align: center;
+border: 2px solid pink;
+}
+
+.isi table, tr, td, img {
+max-width: 85%;
+text-align: center;
+}
+
+.list2 {
+background-color : #303030;
+margin-top : 1px;
+margin-bottom : 1px;
+padding : 2px;
+border : 1px solid #323232;
+}
+
+<!-- Anime List Style -->
+.alads321{overflow:hidden}
+.alads321 .alads-apb{font-size: 14px}
+.alads321 .alads-apb a{line-height: 30px;width: 38px;color: #FFFFFF;border-radius: 5px;background: #6AB2F2;transition: all 0.25s;display: inline-block;text-align: center}
+.alads321 .alads-apb a:hover{text-decoration: underline;color: #FFFFFF}
+.alads321 .alads-wrap{margin-top: 20px}
+.alads321 .alads-group{display: inline-block;width: 100%;background: #F9F9F9;margin-bottom: 10px;}
+.alads321 .alads-head{font-weight: 700;overflow: hidden;margin-bottom: 10px;background: #1581BC;font-size: 15px}
+.alads321 .alads-head a{color: #FFFFFF;background: #19A3EA;float: left;margin: -5px -10px -8px -10px;padding: 12px 30px;border-top-right-radius: 50px}
+.alads321 .alads-item{float: left;color: #727272;width: 33.3%;border-left: 2px solid #D7D7D7}
+.alads321 .alads-item a{line-height: 24px;font-size: 14px;color: #7A7A7A;padding-right: 10px;text-overflow: ellipsis;overflow: hidden;font-weight: 100;white-space: nowrap;margin-top: 20px;padding-left: 10px}
+@media screen and (max-width:1066px){.alads321 .alads-apb a{margin:1px}}
+@media only screen and (max-width: 768px){.alads321 .alads-item{width:50%}}
+@media screen and (max-width:480px){.alads321 .alads-item{width:100%}}
+
+<!-- Genre List -->
+.akgenres321{overflow:hidden;font-size:13px;    margin-left: -4px !important;margin-right: -4px !important;line-height: 21px !important;font-family: tahoma;list-style: none !important;padding: 0px !important;margin: 0px !important;}
+.akgenres321 li{line-height: 21px !important;float: left;list-style: none !important;}
+.akgenres321 li a{background:#F5F5F5;color: #0176C9 !important;padding:3px 10px;border:1px solid #DDD;display:block;margin:4px;width:93px;border-radius:3px}
+.akgenres321 li a:hover{background:#0091D0;color:#FFF !important;text-decoration:none;border:1px solid #FFF;box-shadow:0 1px 1px #DDD}
